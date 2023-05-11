@@ -1,0 +1,13 @@
+{
+  "patients": {
+    "X0FLO6ghe5Tb5MuDS3OYlyes9LR2": {
+      "name": "Mahnoor",
+      "email": "mahnoorhashmi4000@gmail.com",
+      "image": "https://reactjs.org/logo-og.png",      
+      "gender": "female",
+      
+    },
+    "ghopper": { ... },
+    "eclarke": { ... }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1009892780187",
+    "project_id": "healthwise-ef06d",
+    "storage_bucket": "healthwise-ef06d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009892780187:android:dfde3200bd811aa930fe3e",
+        "android_client_info": {
+          "package_name": "com.semester_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009892780187-s34iubnpnk6b6vph5imv6n9s8su9opps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.semester_project",
+            "certificate_hash": "233cb7b9fc908f94df946b77ba2dc5f4bf4a4d64"
+          }
+        },
+        {
+          "client_id": "1009892780187-r5h52n3stlov76vdgn1vfbq1727aj7a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWQA_8bQaDKlOCNEODBr123LbQctHD9wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009892780187-r5h52n3stlov76vdgn1vfbq1727aj7a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
